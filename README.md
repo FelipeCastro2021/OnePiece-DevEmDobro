@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="./to-readme/onepiece.gif" width="100%">
+ <img alt="Projeto One Piece" src="https://github.com/FelipeCastro2021/OnePiece-DevEmDobro/blob/main/to-readme/OnePiece.gif">
 </p>
 
 ## 🚀 Tecnologias
